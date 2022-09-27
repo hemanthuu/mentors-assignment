@@ -148,10 +148,12 @@ h5{
 /* desktop */
 .d-matter{
     margin-bottom: 5rem;
+    margin-left: 80px;
 }
 .desk-matter,.desk-matter-1{
     display: flex;
      flex-wrap: wrap;
+     margin-left: 60px;
 }
 .desktop{
     display: flex;
